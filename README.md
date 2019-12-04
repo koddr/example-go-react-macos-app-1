@@ -1,6 +1,6 @@
 # Example native macOS app on Go (Golang) and React.js
 
-This is full code example for **Part 1** of article [How to create a native macOS app on Go (Golang) and React.js with full code protection (without magic)](https://medium.com/@koddr/how-to-create-a-native-macos-app-on-golang-and-react-js-with-full-code-protection-9162b8c25be5) published on Medium @ 04 Dec 2019.
+This is full code example for **Part 1** of article [How to create a native macOS app on Go (Golang) and React.js with full code protection (without magic)](https://medium.com/@koddr/how-to-create-a-native-macos-app-on-golang-and-react-js-with-full-code-protection-9162b8c25be5). Published on Medium @ 04 Dec 2019.
 
 Part 2 is coming soon.
 
@@ -43,9 +43,9 @@ make clean
 
 If you want to say «thank you»:
 
-1. Add a GitHub Star and make Fork to this repository.
-2. Twit about article [on your Twitter](<https://twitter.com/intent/tweet?text=How%20to%20create%20a%20native%20macOS%20app%20on%20@Golang%20and%20@reactjs%20with%20full%20code%20protection%20(without%C2%A0magic)%20%F0%9F%98%89%20https://medium.com/@koddr/how-to-create-a-native-macos-app-on-golang-and-react-js-with-full-code-protection-9162b8c25be5>).
-3. If you want, you may send me some money via PayPal: [@paypal.me/koddr](https://paypal.me/koddr?locale.x=en_EN).
+1. Twit about article [on your Twitter](<https://twitter.com/intent/tweet?text=How%20to%20create%20a%20native%20macOS%20app%20on%20@Golang%20and%20@reactjs%20with%20full%20code%20protection%20(without%C2%A0magic)%20%F0%9F%98%89%20https://medium.com/@koddr/how-to-create-a-native-macos-app-on-golang-and-react-js-with-full-code-protection-9162b8c25be5>).
+2. Add a GitHub Star and make Fork to this repository.
+3. If you want, send me some money via PayPal: [@paypal.me/koddr](https://paypal.me/koddr?locale.x=en_EN).
 
 ## License
 
