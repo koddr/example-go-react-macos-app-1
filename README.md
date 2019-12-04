@@ -1,15 +1,15 @@
 # Example native macOS app on Go (Golang) and React.js
 
-This is full code example for Part 1 of article [How to create a native macOS app on Go (Golang) and React.js with full code protection (without magic)](https://medium.com/@koddr/how-to-create-a-native-macos-app-on-golang-and-react-js-with-full-code-protection-9162b8c25be5).
+This is full code example for **Part 1** of article [How to create a native macOS app on Go (Golang) and React.js with full code protection (without magic)](https://medium.com/@koddr/how-to-create-a-native-macos-app-on-golang-and-react-js-with-full-code-protection-9162b8c25be5) published on Medium @ 04 Dec 2019.
 
 Part 2 is coming soon.
 
 ## Requirements
 
-- Golang `v1.11+`
-  - dep `v0.5+`
-- Node.js `v10+`
-  - npm `v6+`
+- Go `1.11+`
+  - dep `0.5+`
+- Node.js `10+`
+  - npm `6+`
 
 ## Quick demo
 
