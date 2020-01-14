@@ -45,7 +45,7 @@ make clean
 
 If you want to say «thank you»:
 
-1. Twit about article [on your Twitter](<https://twitter.com/intent/tweet?text=How%20to%20create%20a%20native%20macOS%20app%20on%20@Golang%20and%20@reactjs%20with%20full%20code%20protection%20(without%C2%A0magic)%20%F0%9F%98%89%20https://link.medium.com/F5aFjvld91>).
+1. Twit about article [on your Twitter](https://twitter.com/intent/tweet?text=How%20to%20create%20a%20native%20macOS%20app%20on%20@Golang%20and%20@reactjs%20with%20full%20code%20protection%20(Part%201)%20%F0%9F%98%89%20https://dev.to/koddr/how-to-create-a-native-macos-app-on-go-golang-and-react-js-with-full-code-protection-part-1-463k).
 2. Add a GitHub Star and make Fork to this repository.
 3. Donate some money to project author via PayPal: [@paypal.me/koddr](https://paypal.me/koddr?locale.x=en_EN).
 4. Join DigitalOcean at our [referral link](https://m.do.co/c/b41859fa9b6e) (your profit is **$100** and we get $25).
