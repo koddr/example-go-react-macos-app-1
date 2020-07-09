@@ -31,8 +31,8 @@
 
 [[constraint]]
   name = "github.com/gobuffalo/packr"
-  version = "2.2.0"
+  version = "2.8.0"
 
 [[constraint]]
   name = "github.com/zserge/webview"
-  version = "0.1.0"
+  version = "0.1.1"
