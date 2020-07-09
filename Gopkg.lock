@@ -18,12 +18,12 @@
   version = "v0.1.0"
 
 [[projects]]
-  digest = "1:3624897aef11246e65ae23a2cdb62ca8bd954e5fdceec7134300d8eb67a26b9d"
+  digest = "1:ce61c76c210c57cc5ace82479ec8763ef481c1bd23d54c5fe572d8dccf1911f1"
   name = "github.com/gobuffalo/packr"
   packages = ["."]
   pruneopts = "UT"
-  revision = "cda4ac25577350dac682c8715dc6659327232596"
-  version = "v2.2.0"
+  revision = "c6a5045204dacffbe11d9f6c68485ae7e7fe3d19"
+  version = "v2.8.0"
 
 [[projects]]
   branch = "master"
@@ -62,12 +62,12 @@
   version = "v1.3.0"
 
 [[projects]]
-  digest = "1:790ea41e483319fef6700fa09614250d2f1051157df39059fac0fda3a8d82ada"
+  digest = "1:8831fb6cc883752232e020a56ba40d5538e6409623f94b0d6d4df4e0f7878fdf"
   name = "github.com/zserge/webview"
   packages = ["."]
   pruneopts = "UT"
-  revision = "016c6ffd99f3ba915aea2b026d17e0918322f99b"
-  version = "0.1.0"
+  revision = "9c1b0a888aa40039d501c1ea9f60b22a076a25ea"
+  version = "0.1.1"
 
 [solve-meta]
   analyzer-name = "dep"
