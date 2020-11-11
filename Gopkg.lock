@@ -18,12 +18,12 @@
   version = "v0.1.0"
 
 [[projects]]
-  digest = "1:ce61c76c210c57cc5ace82479ec8763ef481c1bd23d54c5fe572d8dccf1911f1"
+  digest = "1:e32f668ddafbfc1c4aa9034e622a3a4f80acd6350ed653e639a158ad85157dec"
   name = "github.com/gobuffalo/packr"
   packages = ["."]
   pruneopts = "UT"
-  revision = "c6a5045204dacffbe11d9f6c68485ae7e7fe3d19"
-  version = "v2.8.0"
+  revision = "3debf342c4c7a0466f228a798f4dee1f96d4059e"
+  version = "v2.8.1"
 
 [[projects]]
   branch = "master"
